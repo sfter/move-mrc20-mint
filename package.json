@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc && gulp build",
+    "cli": "node dist/mint-args.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mysten/sui.js": "^0.48.1"
+    "@mysten/sui.js": "^0.48.1",
+    "commander": "^10.0.0"
   }
 }
