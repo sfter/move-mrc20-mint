@@ -3,7 +3,7 @@ import { executeTransaction, executeStop } from "./utils/mint";
 
 const program = new Command();
 
-program.command('mint')
+program.command('miner')
     .description('Mint $MOVE')
     .argument('<privateKey>', 'string')
     .argument('<sleepTime>', 'string')

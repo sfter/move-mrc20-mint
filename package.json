@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc && gulp build",
-    "cli": "node dist/mint-args.js"
+    "cli": "node dist/miner.js"
   },
   "author": "",
   "license": "ISC",
