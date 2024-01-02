@@ -1,3 +1,3 @@
-export const privateKey = "0x8d005fa0da0fdde4431fa511a763326ad28f7ce08bebd27c67169e973d6d9e44"
+export const privateKey = ""
 
 export const sleepTime = 120
