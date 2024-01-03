@@ -1,7 +1,5 @@
 MRC20 $MOVE Auto Mint.
 
-> yarn build
-> 
 > npm install --global gulp-cli
 > 
 > npm install --save-dev gulp
